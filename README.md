@@ -1,4 +1,4 @@
-# ustacash
+# USTACASH
 
 En el presente documento se explican las caracteristicas generales del sistema a desarrollar:
 
