@@ -83,6 +83,13 @@ Primeramente, ustacash a de ser una aplicacion la cual pueda permitir los tres s
         + Pre-Logeo admin (requerido)
         + Busqueda del admin a actualizar
         + Llenado del formulario de actualizacion (igual que el de creacion)
+        
+    + Creacion de una alianza
+        + Pre-Logeo superadmin (requerido)
+        + Nombre de la alianza
+        + Entidad con la que se realiza
+        + Fecha de creacion
+        + Fecha de finalizacion
 
 **siempre ha de existir un super-administrador que crea administradores**
 
