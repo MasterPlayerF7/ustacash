@@ -6,7 +6,7 @@ Primeramente, ustacash a de ser una aplicacion la cual pueda permitir los tres s
     - Borrado de cuenta
     - Actualizacion de datos
     - Generacion de reportes asociados a la cuenta
-        - 
+        - asdasd
 - Transacciones
     - Transferencia de fondos de una cuenta a otra
     - Deposito de fondos
