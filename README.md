@@ -86,8 +86,6 @@ Primeramente, ustacash a de ser una aplicacion la cual pueda permitir los tres s
 
 **siempre ha de existir un super-administrador que crea administradores**
 
-Algunos items no tienen definidos subitems, esto 
-
 ## Requerimientos no funcionales
 
 - La estetica de la interfaz grafica es indiferente durante la fase de desarrollo
