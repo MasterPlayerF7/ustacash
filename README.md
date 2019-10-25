@@ -39,6 +39,7 @@ Primeramente, ustacash a de ser una aplicacion la cual pueda permitir los tres s
 + Transacciones
     + Transferencia de fondos de una cuenta a otra
         + Pre-Logeo usuario (requerido)
+        + Cuenta de destino (numero de mobil)
         + Monto de transferencia
 
     + Deposito de fondos (uso de postman para testeo)
@@ -55,11 +56,6 @@ Primeramente, ustacash a de ser una aplicacion la cual pueda permitir los tres s
         + Pre-Logeo usuario (requerido)
         + Cuenta (por numero de mobil)
     
-    + Separacion de fondos (usar de JSON en campo tipo 'text')
-        + Pre-Logeo usuario (requerido)
-        + Reporte de fondos *(visualizacion)*
-        + Llenado de los campos
-
 + Manejo de cuentas por parte de administradores
     + Creacion de administrador (uso de postman para testeo)
         + Pre-Logueo o Verificiacion superadmin (requerido)
